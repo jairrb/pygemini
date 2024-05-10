@@ -1,0 +1,2 @@
+# pygemini
+Project Python + Gemini
